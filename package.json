@@ -58,7 +58,7 @@
         "ENTRY_FILE_PATH": "./app/index",
         "PAGE_TITLE": "Focus demonstration application",
         "MINIMIFY": false,
-        "API_PORT": 8080,
+        "API_PORT": 9999,
         "OUTPUT_DIR": "./public",
         "LOCAL_FOCUS": false,
         "PACKAGE_JSON_PATH": "./"
@@ -68,8 +68,8 @@
   "license": "MIT",
   "dependencies": {
     "backbone": "^1.2.0",
-    "focus-components": "0.8.4",
-    "focus-core": "0.12.2",
+    "focus-components": "0.8.5",
+    "focus-core": "0.12.3",
     "i18next-client": "^1.11.0",
     "immutable": "^3.7.2",
     "jquery": "3.0.0-alpha1",
